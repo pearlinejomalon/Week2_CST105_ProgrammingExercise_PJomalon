@@ -1,3 +1,11 @@
+/**Pogram: Convert Temperature
+*File: ConvertTemperature.java
+*Summary: Converts Fahrenheit to Celsius and Celsius to Fahrenheit
+*Author: Pearl Jomalon
+*Date: September 16, 2018
+**/
+
+
 import java.util.Scanner;
 
 public class ConvertTemperature {
