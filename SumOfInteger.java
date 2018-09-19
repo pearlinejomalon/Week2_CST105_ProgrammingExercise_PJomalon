@@ -1,5 +1,5 @@
 /**Pogram: Sum of Integer Program
-*File: SumOfInteger.java
+*File: SumOfDigits.java
 *Summary: Computes the sum of a 5-digit integer
 *Author: Pearl Jomalon
 *Date: September 16, 2018
